@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["GXCRFCY9W5.cz.rb34.recepty"],
+        "components": [
+          { "/": "/r", "comment": "Sdílený recept z My Recipes (data jsou za #)" },
+          { "/": "/r/*" }
+        ]
+      }
+    ]
+  }
+}
